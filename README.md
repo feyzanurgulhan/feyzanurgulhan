@@ -1,5 +1,4 @@
 ## Hi there 👋
-This is Feyza
 <!--
 **feyzanurgulhan/feyzanurgulhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
